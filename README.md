@@ -19,6 +19,8 @@ Add sections with instructions for installing special software needed to run you
 
 #### CPAN Modules
 
+See [Installing Perl Modules](http://www.cpan.org/modules/INSTALL.html) for more information about installing packages from CPAN.
+
 * [Date::Manip](https://metacpan.org/pod/Date::Manip)
 * Add other modules you use
 
